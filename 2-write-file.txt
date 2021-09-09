@@ -1,0 +1,1 @@
+This is an example file with write functionality in Python
